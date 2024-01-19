@@ -12,6 +12,10 @@ def multiply(a, b):
 
 # This function divides two numbers
 def divide(a, b):
+    if b==0:
+        print("Error")
+        return 0
+    else:    
     return a / b
 
 
