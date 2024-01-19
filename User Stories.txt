@@ -1,0 +1,9 @@
+User 1: As a user, I want to be able to add two numbers, so that I can quickly calculate the sum. For example, when I enter 10 + 5, the calculator should display 15.
+
+User 2: As a user, I want to be able to subtract one number from another, so that I can find the difference. For example, when I enter 10 - 5, the calculator should display 5.
+
+User 3: As a user, I want to be able to multiply two numbers, so that I can easily calculate the product. For example, when I enter 10 * 5, the calculator should display 50.
+
+User 4: As a user, I want to be able to divide one number by another, so that I can find the quotient. For example, when I enter 10 / 5, the calculator should display 2.
+
+User 5: As a user, I want the calculator to provide clear error messages if I enter an invalid expression, so that I can correct my input. For example, if I enter "10 / 0", the calculator should display an error message indicating that division by zero is not allowed.
